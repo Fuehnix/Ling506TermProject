@@ -1407,3 +1407,10 @@ datasets/tales-emotion/Grimms/agreeID/little_red-cap_[little_red_riding_hood].ag
 datasets/tales-emotion/Grimms/pos/little_red-cap_[little_red_riding_hood].sent.okpuncs.props.pos
 datasets/tales-emotion/Grimms/sent/little_red-cap_[little_red_riding_hood].sent.okpuncs
 datasets/tales-emotion/Grimms/emmood/little_red-cap_[little_red_riding_hood].emmood
+*.emmood
+*.agreeID
+*.pos
+*.agree
+*.okpuncs
+*.ks
+*.as
