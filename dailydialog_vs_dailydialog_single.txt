@@ -1,0 +1,9 @@
+Precision	0.8545699701435038
+Recall	0.8545699701435038
+F1-score	0.8545699701435038
+Accuracy	0.8545699701435038
+[1 6 2 0 0 0 0 0 0 6] [0 0 2 0 0 0 0 0 0 0]
+{'id': 72103, 'VAD': {'valence': None, 'arousal': None, 'dominance': None}, 'source': 'dailydialog', 'text': 'The kitchen stinks .', 'emotions': {'joy': 0, 'anger': 0, 'sadness': 0, 'disgust': 1, 'fear': 0, 'trust': None, 'surprise': 0, 'love': None, 'noemo': 0, 'confusion': None, 'anticipation': None, 'shame': None, 'guilt': None}, 'emotion_model': 'Ekman', 'domain': 'conversations', 'labeled': 'single'} => predicted: 0 , truth: 1
+{'id': 72105, 'VAD': {'valence': None, 'arousal': None, 'dominance': None}, 'source': 'dailydialog', 'text': 'So Dick , how about getting some coffee for tonight ?', 'emotions': {'joy': 1, 'anger': 0, 'sadness': 0, 'disgust': 0, 'fear': 0, 'trust': None, 'surprise': 0, 'love': None, 'noemo': 0, 'confusion': None, 'anticipation': None, 'shame': None, 'guilt': None}, 'emotion_model': 'Ekman', 'domain': 'conversations', 'labeled': 'single'} => predicted: 0 , truth: 6
+{'id': 72151, 'VAD': {'valence': None, 'arousal': None, 'dominance': None}, 'source': 'dailydialog', 'text': 'I like Chinese food .', 'emotions': {'joy': 1, 'anger': 0, 'sadness': 0, 'disgust': 0, 'fear': 0, 'trust': None, 'surprise': 0, 'love': None, 'noemo': 0, 'confusion': None, 'anticipation': None, 'shame': None, 'guilt': None}, 'emotion_model': 'Ekman', 'domain': 'conversations', 'labeled': 'single'} => predicted: 0 , truth: 6
+{'id': 72177, 'VAD': {'valence': None, 'arousal': None, 'dominance': None}, 'source': 'dailydialog', 'text': 'No , thank you .', 'emotions': {'joy': 0, 'anger': 1, 'sadness': 0, 'disgust': 0, 'fear': 0, 'trust': None, 'surprise': 0, 'love': None, 'noemo': 0, 'confusion': None, 'anticipation': None, 'shame': None, 'guilt': None}, 'emotion_model': 'Ekman', 'domain': 'conversations', 'labeled': 'single'} => predicted: 0 , truth: 2
