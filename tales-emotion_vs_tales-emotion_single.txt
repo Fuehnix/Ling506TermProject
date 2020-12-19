@@ -1,0 +1,7 @@
+Precision	0.6564376250833889
+Recall	0.6564376250833889
+F1-score	0.6564376250833889
+Accuracy	0.6564376250833889
+[0 5 0 0 0 0 0 0 0 0] [0 0 0 0 0 0 0 0 0 0]
+{'id': 206677, 'VAD': {'valence': None, 'arousal': None, 'dominance': None}, 'source': 'tales-emotion', 'text': 'The rabbits were always a little bit afraid of Pickles.', 'emotions': {'joy': 0, 'anger': 0, 'sadness': 0, 'disgust': 0, 'fear': 1, 'trust': None, 'surprise': 0, 'love': None, 'noemo': 0, 'confusion': None, 'anticipation': None, 'shame': None, 'guilt': None}, 'optional': {'_tales_source': 'ginger_and_pickles.emmood'}, 'emotion_model': 'Ekman', 'domain': 'fairytale_sentences', 'labeled': 'single'} => predicted: 0 , truth: 5
+{'id': 206727, 'VAD': {'valence': None, 'arousal': None, 'dominance': None}, 'source': 'tales-emotion', 'text': 'I am afraid it is a summons," said Pickles.', 'emotions': {'joy': 0, 'anger': 0, 'sadness': 0, 'disgust': 0, 'fear': 1, 'trust': None, 'surprise': 0, 'love': None, 'noemo': 0, 'confusion': None, 'anticipation': None, 'shame': None, 'guilt': None}, 'optional': {'_tales_source': 'ginger_and_pickles.emmood'}, 'emotion_model': 'Ekman', 'domain': 'fairytale_sentences', 'labeled': 'single'} => predicted: 0 , truth: 5

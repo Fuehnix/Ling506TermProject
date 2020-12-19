@@ -1,0 +1,7 @@
+Precision	0.24026512013256007
+Recall	0.24026512013256007
+F1-score	0.24026512013256007
+Accuracy	0.24026512013256007
+[1 1 1 1 1 1 1 1 1 1] [1 3 1 1 1 1 3 1 1 1]
+{'id': 186241, 'VAD': {'valence': None, 'arousal': None, 'dominance': None}, 'source': 'emotion-cause', 'text': 'When Anna left Inspector Aziz , she was much happier . ', 'emotions': {'joy': 1, 'anger': 0, 'sadness': 0, 'disgust': 0, 'fear': 0, 'trust': None, 'surprise': 0, 'love': None, 'noemo': None, 'confusion': None, 'anticipation': None, 'shame': None, 'guilt': None}, 'split': None, 'domain': 'artificial_sentences', 'labeled': 'single'} => predicted: 3 , truth: 1
+{'id': 186246, 'VAD': {'valence': None, 'arousal': None, 'dominance': None}, 'source': 'emotion-cause', 'text': 'She became happier , more settled . ', 'emotions': {'joy': 1, 'anger': 0, 'sadness': 0, 'disgust': 0, 'fear': 0, 'trust': None, 'surprise': 0, 'love': None, 'noemo': None, 'confusion': None, 'anticipation': None, 'shame': None, 'guilt': None}, 'split': None, 'domain': 'artificial_sentences', 'labeled': 'single'} => predicted: 3 , truth: 1
