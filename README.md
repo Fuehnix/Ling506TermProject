@@ -3,7 +3,7 @@ This repository corresponds to the paper, A Review of the Unified Corpus and a M
 
 https://drive.google.com/drive/folders/1vu8s0qqxYQcaEB7l22nYiXgyCSWA1X2I?usp=sharing
 
-The primary file to focus on is main.ipynb.  The file main-Copy2.ipynb also has some useful saved outputs, as this file was created for the purpose of running another jupyter notebook in parallel with the first on a seperate kernel for corpus similarity trials.  There are likely small differences in the code between these two files, but for the purpose of the assignment, youc can focus on main.ipynb, and refer to main-Copy2.ipynb as simply a reference for outputs on corpus similarity.
+The primary file to focus on is main.ipynb.  The file main-Copy2.ipynb also has some useful saved outputs, as this file was created for the purpose of running another jupyter notebook in parallel with the first on a seperate kernel for corpus similarity trials.  There are likely small differences in the code between these two files, but for the purpose of the assignment, you can focus on main.ipynb, and refer to main-Copy2.ipynb as simply a reference for outputs on corpus similarity.
 
 Some sample code is shown in analyzeResults.ipynb, however, I was unable to produce any worthwhile visualizations of data before the deadline, and I decided to scrap those ideas in favor of focusing on my paper.  With very little modification, the results can still be viewed as a table in this file however.
 
